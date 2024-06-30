@@ -1,0 +1,12 @@
+UserID: 7028472133 | Time: 2024-05-30 21:18:47.437147 | Command: /bgmi | Target: 20.204.181.168 | Port: 19692 | Time: 180
+Username: @JODxPREDATOR
+Target: 20.204.181.168
+Port: 19692
+Time: 180
+
+UserID: 7028472133 | Time: 2024-05-30 21:20:00.240563 | Command: /bgmi | Target: 20.204.181.168 | Port: 19692 | Time: 180
+Username: @JODxPREDATOR
+Target: 20.204.181.168
+Port: 19692
+Time: 180
+
